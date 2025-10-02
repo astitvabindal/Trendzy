@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27702842307",
+    "project_id": "trendzy-5e632",
+    "storage_bucket": "trendzy-5e632.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27702842307:android:224228385653d69bbee376",
+        "android_client_info": {
+          "package_name": "com.trendzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVY9D8tsv6pYT89Bk_lDk0Ea98QNND44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
